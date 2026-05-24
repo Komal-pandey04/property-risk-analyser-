@@ -1,1 +1,0 @@
-/* insights and predictor are defined in favourites.js */
