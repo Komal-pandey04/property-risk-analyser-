@@ -1,0 +1,31 @@
+{
+  "linear_regression": {
+    "r2": 0.2283,
+    "rmse": 64.23
+  },
+  "ridge_regression": {
+    "r2": 0.2283,
+    "rmse": 64.23
+  },
+  "random_forest": {
+    "r2": 0.6455,
+    "rmse": 43.53
+  },
+  "feature_importance": {
+    "SQUARE_FT": 51.7,
+    "BHK_NO.": 10.8,
+    "CITY_ENC": 25.3,
+    "RERA": 1.7,
+    "READY_TO_MOVE": 0.7,
+    "RESALE": 0.7,
+    "UNDER_CONSTRUCTION": 0.7,
+    "POSTED_ENC": 8.4
+  },
+  "gradient_boosting": {
+    "r2": 0.6836,
+    "rmse": 41.13
+  },
+  "logistic_regression": {
+    "accuracy": 0.679
+  }
+}
