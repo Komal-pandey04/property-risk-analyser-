@@ -1,0 +1,1 @@
+/* renderPredictor and runMLPrediction are defined in favourites.js */
