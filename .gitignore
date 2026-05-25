@@ -1,0 +1,5 @@
+node_modules/
+.env
+ml/trained_models/
+*.pkl
+ml/trained_models/
