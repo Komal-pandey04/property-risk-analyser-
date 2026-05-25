@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏠 PRISM — Property Risk and Intelligence Simulation Model
 
 **AI-powered property analytics platform for Indian real estate**
