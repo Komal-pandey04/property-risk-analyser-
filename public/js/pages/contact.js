@@ -1,0 +1,1 @@
+/* renderContact defined in mails.js */
