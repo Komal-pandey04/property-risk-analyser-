@@ -243,7 +243,7 @@ prism-project/
 └── public/
     ├── index.html
     ├── css/main.css
-    └── js/ (12 files)
+    └── js/ 
 ```
 
 ---
